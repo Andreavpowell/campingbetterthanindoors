@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(182, 173, 144);
+    font-family: "Georgia"
+}
+
+header {
+    background-color: rgba(27, 75, 27, 0.856);
+    text-align: center;
+    padding: 6px;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: "Courier New", Georgia, "Ludica Console";
+    font-size: x-large;
+    border-style: groove;
+    border-color: black;
+    background-color: darkolivegreen
+}
+
+header li {
+    border: solid 2px;
+    display: inline;
+    background-color: rgb(166, 138, 100);
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px 100px 10px 10px;
+}
+
+#all_sections {
+    text-align: center
+}
+
+footer li {
+    border: groove 4px;
+    border-color:rgb(102, 78, 45);
+    display: inline;
+    background-color: rgb(166, 138, 100);
+    font-weight: bold;
+    margin: 10px 100px 10px 10px
+}
+
+footer {
+    background-color: black;
+    height: 70px;
+    margin: 5px 10px 10px 10px;
+}
+
